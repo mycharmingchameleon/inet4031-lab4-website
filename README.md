@@ -1,16 +1,15 @@
-# INET4031 - Module 6 - Working with Remote Systems
+# INET4031 - Module 4 - Working with Remote Systems
 
-## Instructions, files, code for Lab 6.
+The purpose of this repo is to learn how to host an HTML website locally on my laptop.
 
-What if you aren't nearby the computer you need to work on?
+## Instructions, files, code for Lab 4.
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
+### Recent edits to the HTML file:
 
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
+Added my name and changed the background color.
 
-We have to connect to them remotely
+Experimented with the style and position of the buttons.
 
-This Lab explores that concept.
 
 
 
